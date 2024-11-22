@@ -63,16 +63,16 @@ This project implements a **People Detection and Counting System** using the YOL
 ---
 
 ## 🖼️ Example Output
+**Input Video**
+ A sample video of people moving along a escalator
+![People Detection Example](people.gif)  
+**Output Video**
+A video with detected people highlighted and a real-time people count displayed
+![People Detection Example](demo.gif)
 
-![People Detection Example](graphics.png)  
-*()*
 
 ---
 
 ## 🙏 Acknowledgments
 
 - **SORT Algorithm:** The `sort.py` implementation is adapted from an external source to enable robust tracking.
-
----
-
-Let me know if you'd like to add a demo video, a GIF, or more details!
